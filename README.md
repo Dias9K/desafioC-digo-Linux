@@ -8,4 +8,6 @@ Definições propostas no desafio:
 4. Os usuários de cada grupo terão permissão total dentro de seu respectivo diretório;
 5. Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;
 6. Subir arquivo de script criado para a sua conta no GitHub.
+
+##Estrutura para os usuários que serão criados
 ![Alt text](./estruturaUsuarios.png "Optional title")
